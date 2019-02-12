@@ -5,7 +5,7 @@
 # Gallery title. Can be set here or as the '--title' option of the `sigal
 # build` command, or in the 'index.md' file of the source directory.
 # The priority order is: cli option > settings file > index.md file
-# title = "Sigal test gallery"
+title = "pandas in black and white"
 
 # ---------------------
 # General configuration
@@ -72,7 +72,7 @@ copy_exif_data = False
 datetime_format = '%c'
 
 # Jpeg options
-jpg_options = {'quality': 85,
+jpg_options = {'quality': 100,
                'optimize': True,
                'progressive': True}
 
@@ -181,8 +181,8 @@ output_filename = 'index.html'
 index_in_url = False
 
 # A list of links (tuples (title, URL))
-# links = [('Example link', 'http://example.org'),
-#          ('Another link', 'http://example.org')]
+links = [('about the project', 'https://github.com/deppen8/pandas-bw/blob/master/README.md'),
+         ('about me', 'https://deppen8.github.io/')]
 
 # Google Analytics tracking code (UA-xxxx-x)
 google_analytics = 'UA-134267763-1'
