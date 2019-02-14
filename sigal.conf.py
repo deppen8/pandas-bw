@@ -107,7 +107,7 @@ thumb_fit = False
 # thumb_video_delay = '0'
 
 # Keep original image (default: False)
-keep_orig = True
+keep_orig = False
 
 # Subdirectory for original images
 orig_dir = 'original'
@@ -178,7 +178,7 @@ write_html = True
 output_filename = 'index.html'
 
 # Add output filename (see above) to the URLs
-index_in_url = False
+index_in_url = True
 
 # A list of links (tuples (title, URL))
 links = [('about the project', 'https://github.com/deppen8/pandas-bw/blob/master/README.md'),
