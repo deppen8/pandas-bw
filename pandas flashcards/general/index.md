@@ -1,6 +1,6 @@
 Title: General/miscellaneous
 
-**Source links:**
+**Source links**
 <ul>
 <li>[Arithmetic & Comparison Operators vs. Methods](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)</li>
 <li>[import pandas as pd](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)</li>
