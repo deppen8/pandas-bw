@@ -1,6 +1,6 @@
 Title: Selecting and indexing
 
-**Source links**
+**Sources**
 <ul>
 <li>[Handling a MultiIndex](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)</li>
 <li>[.ix indexer](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)</li>

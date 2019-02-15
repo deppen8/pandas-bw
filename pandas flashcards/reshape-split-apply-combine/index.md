@@ -1,6 +1,6 @@
 Title: Reshape and split-apply-combine
 
-**Source links**
+**Sources**
 <ul>
 <li>[.groupby patterns](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)</li>
 <li>[.groupby vs. .pivot_table](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)</li>
